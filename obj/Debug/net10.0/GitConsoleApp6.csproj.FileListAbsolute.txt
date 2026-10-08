@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\GitConsoleApp6\bin\Debug\net10.0\GitConsoleApp6.exe
+C:\Users\Hp\source\repos\GitConsoleApp6\bin\Debug\net10.0\GitConsoleApp6.deps.json
+C:\Users\Hp\source\repos\GitConsoleApp6\bin\Debug\net10.0\GitConsoleApp6.runtimeconfig.json
+C:\Users\Hp\source\repos\GitConsoleApp6\bin\Debug\net10.0\GitConsoleApp6.dll
+C:\Users\Hp\source\repos\GitConsoleApp6\bin\Debug\net10.0\GitConsoleApp6.pdb
+C:\Users\Hp\source\repos\GitConsoleApp6\obj\Debug\net10.0\GitConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\GitConsoleApp6\obj\Debug\net10.0\GitConsoleApp6.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\GitConsoleApp6\obj\Debug\net10.0\GitConsoleApp6.AssemblyInfo.cs
+C:\Users\Hp\source\repos\GitConsoleApp6\obj\Debug\net10.0\GitConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\GitConsoleApp6\obj\Debug\net10.0\GitConsoleApp6.dll
+C:\Users\Hp\source\repos\GitConsoleApp6\obj\Debug\net10.0\refint\GitConsoleApp6.dll
+C:\Users\Hp\source\repos\GitConsoleApp6\obj\Debug\net10.0\GitConsoleApp6.pdb
+C:\Users\Hp\source\repos\GitConsoleApp6\obj\Debug\net10.0\GitConsoleApp6.genruntimeconfig.cache
+C:\Users\Hp\source\repos\GitConsoleApp6\obj\Debug\net10.0\ref\GitConsoleApp6.dll
